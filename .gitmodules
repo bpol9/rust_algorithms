@@ -1,0 +1,9 @@
+[submodule "avl_tree"]
+	path = avl_tree
+	url = https://github.com/bpol9/avl_tree_rust.git
+[submodule "b_tree"]
+	path = b_tree
+	url = https://github.com/bpol9/b_tree_with_delete.git
+[submodule "huffman_code"]
+	path = huffman_code
+	url = https://github.com/bpol9/rust_huffman.git
